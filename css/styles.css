@@ -4,4 +4,16 @@
 
 .green-header {
   background-color: #84cea5;
+  padding: 5px;
+}
+
+.blue-header {
+  background-color: #8fccef;
+  padding: 5px;
+}
+
+.sidebar {
+  float: left;
+  width: 20%;
+  background-color: light grey;
 }
